@@ -1,0 +1,6 @@
+{
+  "name": "Ranu's Magical Birthday World",
+  "description": "A magical, interactive, and personalized birthday surprise world created exclusively for Kritika aka Ranu with love from her brother Kartik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
